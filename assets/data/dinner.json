@@ -1,0 +1,8 @@
+{
+    "dinner":
+    [
+        {"food":"roti","price":250,"calories":50},
+        {"food":"paneer","price":400,"calories":60},
+        {"food":"ChoclateMilk","price":100,"calories":290}
+    ]
+}

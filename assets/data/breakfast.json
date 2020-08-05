@@ -1,0 +1,8 @@
+{
+    "breakfast":
+    [
+        {"food":"cereals","price":40,"calories":100},
+        {"food":"oats","price":50,"calories":200},
+        {"food":"omelette","price":60,"calories":300}
+    ]
+}
